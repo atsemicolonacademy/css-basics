@@ -42,3 +42,13 @@
 - table
 - initial
 - inherit
+
+## Position
+ 
+ properties -> top, right, bottom, left
+
+- static (default) -> will not affected by properties
+- relative -> can use priperties to align elements
+- fixed -> to fix element in particular place
+- absolute -> relates to nearest position anchor
+- sticky -> to make a element stick

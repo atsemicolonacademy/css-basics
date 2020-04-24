@@ -1,0 +1,17 @@
+.content {
+    width: 1000px;
+    margin: 0 auto;
+    background: green;
+}
+
+.content h3 {
+    display: inline;
+}
+
+.content button {
+    display: block;
+}
+
+.content img {
+    display: block;
+}
